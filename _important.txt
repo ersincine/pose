@@ -1,0 +1,1 @@
+Barn için COLMAP'in bulduğu kamera parametrelerini diğer iki sahnede de kullandım. Belki doğru değildir bu.
